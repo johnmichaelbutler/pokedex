@@ -1,0 +1,12 @@
+.Pokedex {
+  width: 100vw;
+  height: 100vh;
+}
+
+.Pokedex-winner {
+  color: green;
+}
+
+.Pokedex-loser {
+  color: red;
+}
